@@ -4,7 +4,7 @@ Here's a professional and clear description you can use in your GitHub README fi
 
 ---
 
-## 📄 CSV Data Cleaning 
+## Data Cleaning 
 
 This repository showcases **three different methods** to clean and preprocess a raw CSV dataset using:
 
@@ -27,12 +27,12 @@ To demonstrate how the same data cleaning task can be accomplished across differ
 
 ### 📁 Structure:
 
-* `python data cleaninin.pinyb: Jupyter Notebook with step-by-step Python (Pandas) cleaning
-* `powerbi_cleaning.pbix`: Power BI project file using Power Query Editor
-* `sql_cleaning.sql`: SQL script for cleaning data directly in PostgreSQL
+*  Jupyter Notebook with step-by-step Python (Pandas) cleaning
+*  Power BI project file using Power Query Editor
+*  SQL script for cleaning data directly in PostgreSQL
 
 ###  Why This Matters:
 
 Data rarely comes clean. Knowing how to clean and prepare data across various tools is essential for any data professional. This project illustrates practical, real-world examples of cleaning data using different approaches to suit different workflows.
 
--
+
